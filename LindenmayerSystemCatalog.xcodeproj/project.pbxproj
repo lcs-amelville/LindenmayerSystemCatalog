@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		81C150F526459B3B009D5AC6 /* scott-berry-tree.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "scott-berry-tree.json"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		81C150EE26459B26009D5AC6 = {
 			isa = PBXGroup;
 			children = (
+				81C150F526459B3B009D5AC6 /* scott-berry-tree.json */,
 			);
 			sourceTree = "<group>";
 		};
