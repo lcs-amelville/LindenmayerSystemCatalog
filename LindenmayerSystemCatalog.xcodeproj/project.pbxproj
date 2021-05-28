@@ -16,6 +16,7 @@
 		8AD3FFA4264AA76D003F1882 /* james-devils-fingers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "james-devils-fingers.json"; sourceTree = "<group>"; };
 		9C968BDE264877E000A64FA3 /* sihan-tree.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "sihan-tree.json"; sourceTree = "<group>"; };
 		CB0C792D2645C2D9000C5B05 /* aidan-berry-bush.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "aidan-berry-bush.json"; sourceTree = "<group>"; };
+		CB58825A2661789B00AB08E8 /* aidan-Cattail-sketch.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "aidan-Cattail-sketch.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -31,6 +32,7 @@
 				81C150F626459BE9009D5AC6 /* gordon-basic-branching-tree.json */,
 				81C150F526459B3B009D5AC6 /* scott-berry-tree.json */,
 				81C1511D26496A52009D5AC6 /* gordon-short-branching-tree.json */,
+				CB58825A2661789B00AB08E8 /* aidan-Cattail-sketch.json */,
 			);
 			sourceTree = "<group>";
 		};
