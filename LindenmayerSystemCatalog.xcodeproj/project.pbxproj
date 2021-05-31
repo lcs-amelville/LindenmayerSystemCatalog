@@ -20,6 +20,7 @@
 		9C968BDE264877E000A64FA3 /* sihan-tree.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "sihan-tree.json"; sourceTree = "<group>"; };
 		CB0C792D2645C2D9000C5B05 /* aidan-berry-bush.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "aidan-berry-bush.json"; sourceTree = "<group>"; };
 		CB58825A2661789B00AB08E8 /* aidan-Cattail-sketch.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "aidan-Cattail-sketch.json"; sourceTree = "<group>"; };
+		CB9F553126656B7800CBBFB9 /* aidan-willowTree-sketch.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "aidan-willowTree-sketch.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -39,6 +40,7 @@
 				CB58825A2661789B00AB08E8 /* aidan-Cattail-sketch.json */,
 				81537A4A265FD26500A50C54 /* gordon-triangle-sketch.json */,
 				4649C93426656269006C7ED0 /* nicole-ocotillo-bush.json */,
+				CB9F553126656B7800CBBFB9 /* aidan-willowTree-sketch.json */,
 			);
 			sourceTree = "<group>";
 		};
