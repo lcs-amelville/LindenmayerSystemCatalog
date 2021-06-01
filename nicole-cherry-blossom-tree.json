@@ -44,13 +44,20 @@
           "odds" : 1
         }
       ],
-      "G" : [
+      "D" : [
         {
-          "text" : "[C+++++C+++++C+++++C++++C]",
+          "text" : "[0C+++++0C+++++0C+++++0C++++0C]",
           "odds" : 1
-        }
+        
+        },
+        
+        {
+            "text" : "[2C+++++2C+++++2C+++++2C++++2C]",
+            "odds" : 1
+            
+        },
       ],
-      "J" : [
+      "C" : [
         {
           "text" : "0[++++F-F-F-F-F-F-F-F---F]0[----F+F+F+F+F+F+F+F+++F]3[FFFFB]",
           "odds" : 1
@@ -68,6 +75,32 @@
   "initialX" : 250,
   "initialHeading" : 90,
   "reduction" : 2.2,
+  "colors" : {
+    "0" : {
+      "hue" : 343,
+      "saturation" : 72,
+      "brightness" : 86,
+      "alpha" : 100
+    },
+    "1" : {
+      "hue" : 29,
+      "saturation" : 100,
+      "brightness" : 29,
+      "alpha" : 100
+    },
+    "2" : {
+      "hue" : 343,
+      "saturation" : 28,
+      "brightness" : 86,
+      "alpha" : 100
+    },
+    "3" : {
+      "hue" : 38,
+      "saturation" : 87,
+      "brightness" : 100,
+      "alpha" : 100
+    }
+  },
   "initialY" : 100
 }
 
