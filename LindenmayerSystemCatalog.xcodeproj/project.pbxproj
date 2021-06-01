@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1C95814C2665C61A00E94F98 /* Fernanda-Plan2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "Fernanda-Plan2.json"; sourceTree = "<group>"; };
 		33F7C9242665C02D0004E9F1 /* ilana-flower-plant.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "ilana-flower-plant.json"; sourceTree = "<group>"; };
 		4649C93426656269006C7ED0 /* nicole-ocotillo-bush.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "nicole-ocotillo-bush.json"; sourceTree = "<group>"; };
-		4649C9352665A977006C7ED0 /* nicole-cherry-blossom-tree.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "nicole-cherry-blossom-tree.json"; sourceTree = "<group>"; };
+		4649C93926660382006C7ED0 /* nicole-cherry-blossom-tree.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "nicole-cherry-blossom-tree.json"; sourceTree = "<group>"; };
 		5480D8812647408400BE6404 /* victoria-bush.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "victoria-bush.json"; sourceTree = "<group>"; };
 		81537A43265FCCDA00A50C54 /* ilana-fern-plant.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "ilana-fern-plant.json"; sourceTree = "<group>"; };
 		81537A4A265FD26500A50C54 /* gordon-triangle-sketch.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "gordon-triangle-sketch.json"; sourceTree = "<group>"; };
@@ -28,7 +29,7 @@
 			isa = PBXGroup;
 			children = (
 				33F7C9242665C02D0004E9F1 /* ilana-flower-plant.json */,
-				4649C9352665A977006C7ED0 /* nicole-cherry-blossom-tree.json */,
+				4649C93926660382006C7ED0 /* nicole-cherry-blossom-tree.json */,
 				8AD3FFA4264AA76D003F1882 /* james-devils-fingers.json */,
 				81CDA82F265EB8FD00E2E9BB /* gordon-leafy-plant.json */,
 				9C968BDE264877E000A64FA3 /* sihan-tree.json */,
@@ -41,6 +42,7 @@
 				81537A4A265FD26500A50C54 /* gordon-triangle-sketch.json */,
 				4649C93426656269006C7ED0 /* nicole-ocotillo-bush.json */,
 				CB9F553126656B7800CBBFB9 /* aidan-willowTree-sketch.json */,
+				1C95814C2665C61A00E94F98 /* Fernanda-Plan2.json */,
 			);
 			sourceTree = "<group>";
 		};
