@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1C95814C2665C61A00E94F98 /* Fernanda-Plan2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "Fernanda-Plan2.json"; sourceTree = "<group>"; };
 		33F7C9242665C02D0004E9F1 /* ilana-flower-plant.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "ilana-flower-plant.json"; sourceTree = "<group>"; };
 		4649C93426656269006C7ED0 /* nicole-ocotillo-bush.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "nicole-ocotillo-bush.json"; sourceTree = "<group>"; };
 		4649C9352665A977006C7ED0 /* nicole-cherry-blossom-tree.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "nicole-cherry-blossom-tree.json"; sourceTree = "<group>"; };
@@ -43,6 +44,7 @@
 				81537A4A265FD26500A50C54 /* gordon-triangle-sketch.json */,
 				4649C93426656269006C7ED0 /* nicole-ocotillo-bush.json */,
 				CB9F553126656B7800CBBFB9 /* aidan-willowTree-sketch.json */,
+				1C95814C2665C61A00E94F98 /* Fernanda-Plan2.json */,
 			);
 			sourceTree = "<group>";
 		};
